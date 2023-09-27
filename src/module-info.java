@@ -4,5 +4,5 @@
 /**
  * 
  */
-module SrikanthApplication {
+module module {
 }
